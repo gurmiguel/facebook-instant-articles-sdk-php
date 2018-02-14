@@ -1,5 +1,5 @@
 {
-    "name": "facebook/facebook-instant-articles-sdk-php",
+    "name": "gurmiguel/facebook-instant-articles-sdk-php",
     "description": "Facebook Instant Articles SDK for PHP",
     "keywords": ["facebook", "sdk", "instant", "articles"],
     "type": "library",
